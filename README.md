@@ -1,6 +1,6 @@
 # 42-ft_printf
   
-  Goal of this project is to recreate function Printf from the standar C library while still within the standards of the [Norm](https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf).
+  Goal of this project is to recreate function Printf from the standard C library while still within the standards of the [Norm](https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf).
   Goal is to cover:
   * c - Character Flag
   * s - String Flag
